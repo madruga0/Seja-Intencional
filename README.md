@@ -1,3 +1,3 @@
 # Seja-Intencional
 
-Seja Intencional's linktree 
+Seja Intencional menu de links
